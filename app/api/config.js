@@ -1,5 +1,5 @@
 
-export const BASE_URL = 'https://dyakovpindie.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://dyakov.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
